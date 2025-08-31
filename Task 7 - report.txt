@@ -1,0 +1,60 @@
+Task 7 - Identify and Remove Suspicious Browser Extensions
+===========================================================
+
+Objective:
+-----------
+Learn to spot and remove potentially harmful browser extensions.
+
+Steps Followed:
+----------------
+1. Opened the browser’s extension/add-ons manager.
+2. Reviewed all installed extensions.
+3. Checked permissions and user reviews of each extension.
+4. Identified unused or suspicious extensions.
+5. Removed unnecessary or suspicious ones.
+6. Restarted the browser and checked performance.
+7. Researched risks of malicious extensions.
+8. Documented findings.
+
+Installed Extensions (Before Cleanup):
+---------------------------------------
+1. [Extension Name 1] – Status: Kept (reason: trusted and in use).
+2. [Extension Name 2] – Status: Removed (reason: not used frequently).
+3. [Extension Name 3] – Status: Removed (reason: excessive permissions / poor reviews).
+4. [Extension Name 4] – Status: Kept (reason: useful, safe).
+
+Suspicious/Removed Extensions:
+-------------------------------
+- **[Extension Name]**
+  - Reason: Requested unnecessary permissions (e.g., access to browsing history).
+  - Action: Removed.
+
+- **[Extension Name]**
+  - Reason: Not used, had poor user reviews, possible adware risk.
+  - Action: Removed.
+
+Observations:
+--------------
+- Browser ran smoother after removing unused/suspicious extensions.
+- Page loading time improved slightly.
+- Startup time of browser reduced.
+
+Risks of Malicious Extensions:
+-------------------------------
+- Can track browsing activity and steal sensitive data.
+- May insert unwanted ads or redirect to unsafe websites.
+- Can slow down browser performance.
+- Some may secretly mine cryptocurrency or install malware.
+
+Conclusion:
+------------
+Regularly reviewing browser extensions improves both security and performance. 
+Removing suspicious or unnecessary add-ons helps protect privacy and ensures 
+a safer browsing experience.
+
+Screenshots:
+-------------
+- Included in the screenshots/ folder:
+  1. before_extensions.png → Extensions page before cleanup
+  2. after_extensions.png → Extensions page after cleanup
+  3. permissions_check.png → Example permissions check (optional)
