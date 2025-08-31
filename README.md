@@ -14,5 +14,5 @@ Learn to spot and remove potentially harmful browser extensions.
 8. Documented findings.
 
 ## Deliverables
-- Task 27 -report.txt → Details of suspicious/removed extensions.
+- Task 7 -report.txt → Details of suspicious/removed extensions.
 
